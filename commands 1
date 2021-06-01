@@ -5,3 +5,6 @@ git config --global user .email "gujjulausa@gmail.com"
 git config --list
 git status
 git log
+git add file name or *
+git commit -m "label"
+git show cid
