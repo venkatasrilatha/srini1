@@ -1,0 +1,7 @@
+git bash here 
+git init 
+git config --global user .name "srilatha"
+git config --global user .email "gujjulausa@gmail.com"
+git config --list
+git status
+git log
